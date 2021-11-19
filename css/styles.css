@@ -1,0 +1,40 @@
+.bookshelf {
+    background-color: #564E52;
+    width: 1100px;
+    aspect-ratio: 1/1;
+    height: 450px;
+    display: flex;
+    margin: 100px auto 100px auto;
+    border: -10px solid #7F5822;
+    margin: 0 auto;
+}
+@media (max-width: 1250px){
+    .bookyshelf{
+        width: 425px;
+        height: 660px;
+    }
+}
+#section1 {
+
+    border: 10px solid #7F5822;
+}
+
+#section2 {
+    border: 10px solid #7F5822;
+}
+
+#section3 {
+    border: 10px solid #7F5822;
+}
+
+#section4 {
+    border: 10px solid #7F5822;
+}
+
+#section5 {
+    border: 10px solid #7F5822;
+}
+
+#section6 {
+    border: 10px solid #7F5822;
+}
