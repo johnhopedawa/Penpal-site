@@ -9,6 +9,9 @@
     margin: 0 auto;
 }
 
+* {
+    scroll-behavior: smooth;
+}
 @media (max-width: 1250px){
     .bookyshelf{
         width: 425px;
@@ -48,7 +51,7 @@ a.fill-div {
 
 #second {
     display: none;
-    height: 50vh;
+    height: 70vh;
     width: auto;
     margin-top: 100px;
 
