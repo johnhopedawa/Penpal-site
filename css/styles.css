@@ -12,20 +12,20 @@
 * {
     scroll-behavior: smooth;
 }
-@media (max-width: 1250px){
-    .bookyshelf{
-        width: 425px;
-        height: 660px;
-    }
-}
+
 
 #letter1{
     background-image: url("../images/Red\ book.png");
-    border: 5px solid black;
     height: 430px;
     width: 100px;
     display: flex;
 
+}
+#letter2{
+    background-image: url("../images/Blue\ book.png");
+    height: 430px;
+    width: 100px;
+    display: flex;
 }
 
 a.fill-div {
@@ -33,7 +33,7 @@ a.fill-div {
     height: 100%;
     width: 100%;
     position: relative;
-    left: -5px;
+    left: -8px;
     top: 60px;
     font-size: 30px;
     letter-spacing: 10px;
@@ -43,18 +43,23 @@ a.fill-div {
     color: black;
 }
 
+
 .imgs {
     display: flex;
     justify-content: center;
 
 }
 
-#second {
+#first {
     display: none;
     height: 70vh;
     width: auto;
     margin-top: 100px;
+}
+#second {
+    display: none;
 
+    margin-top: 1000px;
 
 }
 #section1 {
