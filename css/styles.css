@@ -20,7 +20,6 @@
 .logo_container img {
     height: 98px;
     width: auto;
-    opacity: 200%;
 
 }
 .bookshelfWrapper {
@@ -39,7 +38,9 @@
 
 * {
     scroll-behavior: smooth;
+    font-family: 'Lobster', cursive;
 }
+
 
 
 #letter1{
@@ -61,7 +62,7 @@ a.fill-div {
     height: 100%;
     width: 100%;
     position: relative;
-    left: -8px;
+    left: -11px;
     top: 60px;
     font-size: 30px;
     letter-spacing: 10px;
