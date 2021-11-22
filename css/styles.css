@@ -50,6 +50,13 @@
     display: flex;
 
 }
+
+#letter1 a {
+    margin-top: -25px;
+    margin-left: -4px;
+    font-size: 27px;
+    letter-spacing: 0.3em;
+}
 #letter2{
     background-image: url("../images/Blue\ book.png");
     height: 430px;
@@ -87,9 +94,7 @@ a.fill-div {
 }
 #second {
     display: none;
-
     margin-top: 1000px;
-
 }
 #section1 {
 
